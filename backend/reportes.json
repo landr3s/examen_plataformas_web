@@ -5,5 +5,12 @@
     "precioAnterior": 99,
     "precioActual": 50,
     "inflacion": -49.494949494949495
+  },
+  {
+    "nombre": "juguete",
+    "descripcion": "grande",
+    "precioAnterior": 50,
+    "precioActual": 100,
+    "inflacion": 100
   }
 ]
